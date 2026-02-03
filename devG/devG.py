@@ -11,3 +11,4 @@ resul = mul(a,b)
 print(f"O valor do resultado e{resul}")
 
 
+
